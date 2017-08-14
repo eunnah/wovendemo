@@ -2098,6 +2098,7 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		
 	}
 
 /* One */
@@ -2148,6 +2149,12 @@
 			position: relative;
 			top: 5px;
 			left: 8px;
+		}
+
+		#embedded-demo {
+			position: relative;
+			left: 50px;
+			margin: 0 auto;
 		}
 
 		@media screen and (max-width: 736px) {
