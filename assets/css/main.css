@@ -7,9 +7,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.iphone-description {
+	font-size: 16px;
+}
 
 .margins {
 	margin: 10%
+}
+
+.darkred {
+	color: darkred;
 }
 /* Reset */
 
@@ -1926,6 +1933,7 @@
 
 			.main.style2 .content {
 				width: 40%;
+				margin-left: 5%;
 			}
 
 		}
@@ -1933,7 +1941,8 @@
 		@media screen and (max-width: 1280px) {
 
 			.main.style2 .content {
-				width: 50%;
+				width: 40%;
+				margin-left: 5%;
 			}
 
 		}
@@ -1942,6 +1951,7 @@
 
 			.main.style2 .content {
 				width: 60%;
+				margin-left: 5%;
 			}
 
 		}
